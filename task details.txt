@@ -1,0 +1,18 @@
+Task Details: 
+
+Task Name: Logical Questions(Try to solve these questions, If any doubts regarding these questions, contact me).
+
+
+Question number : Question 11 to 20  from set-2
+
+
+
+*Note: Hereafter send your assessments as Code Sandbox link. I have attached a reference video.
+
+Code sandbox video.mkv
+
+Deadline: On or before 03.08.2023, 10:00 AM.
+
+Tools to be used:
+JavaScript
+Submission Format:  After Completing,  share your Code Sandbox link to my mail id: kartheepan.d@skillsafari.in.
